@@ -1,2 +1,3 @@
 # Unit-Converter
-A chrome extension that will convert basic units for you
+A Chrome extension that will convert basic units for you.
+https://chromewebstore.google.com/detail/unit-converter/kblaonkeckbnokecjpbepadckfjlbdoi?hl=en
